@@ -1,0 +1,53 @@
+
+
+body{ 
+	 background-image: url(http://www.fondospaisajes.net/wp-content/uploads/2010/10/camino-con-casas-rurales.jpg);
+	}
+
+
+h1{color:#DF013A;
+   font: oblique bold 120% cursive;
+   }
+
+
+h2{color:#5F04B4; 
+   text-align:center;
+  }
+
+h3{color:#DF013A;
+   text-align: center;
+   }
+
+
+p{color:#C2F5F0;
+	font-family:Garamond;
+	font-size: 20px;
+  }
+
+div{
+	border:2 px solid;
+	margin:auto;
+	text-aling:center;
+   }
+
+#css-zen-garden{clear:right;
+	           float:left;
+				margin: 20px 20px 20px 10px;
+       			width: 60%;
+				}
+
+.sidebar{
+
+		clear: left;
+		margin: 0px ;
+        width: 160px;
+    	float: both;
+    	padding:0px;
+
+    }
+.design-selection{
+					position:right;
+					padding:0px;
+					
+
+}
